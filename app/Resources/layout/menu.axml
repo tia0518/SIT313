@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/ll1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FFFFFF">
+        <Button
+            android:text="diary"
+            android:layout_width="match_parent"
+            android:layout_height="120"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="36"
+            android:gravity="left"
+            android:paddingLeft="40dp"
+            android:paddingTop="20dp"
+            android:id="@+id/button1"
+            android:background="@drawable/m1" />
+        <Button
+            android:text="voice"
+            android:layout_width="match_parent"
+            android:layout_height="120"
+            android:textAllCaps="false"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="36"
+            android:gravity="left"
+            android:paddingLeft="40dp"
+            android:paddingTop="20dp"
+            android:id="@+id/button2"
+            android:background="@drawable/m2" />
+        <Button
+            android:text="account"
+            android:layout_width="match_parent"
+            android:layout_height="120"
+            android:textAllCaps="false"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="36"
+            android:gravity="left"
+            android:paddingLeft="40dp"
+            android:paddingTop="20dp"
+            android:id="@+id/button3"
+            android:background="@drawable/m3" />
+        <Button
+            android:text="vocabulary"
+            android:layout_width="match_parent"
+            android:layout_height="120"
+            android:textAllCaps="false"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="36"
+            android:gravity="left"
+            android:paddingLeft="40dp"
+            android:paddingTop="20dp"
+            android:id="@+id/button4"
+            android:background="@drawable/m4" />
+        <Button
+            android:text="anniversary"
+            android:layout_width="match_parent"
+            android:layout_height="120"
+            android:textAllCaps="false"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="36"
+            android:gravity="left"
+            android:paddingLeft="40dp"
+            android:paddingTop="20dp"
+            android:id="@+id/button5"
+            android:background="@drawable/m5" />
+    </LinearLayout>
+</ScrollView>

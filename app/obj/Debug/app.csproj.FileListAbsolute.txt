@@ -1,0 +1,2 @@
+C:\Users\titi\source\repos\app\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\titi\source\repos\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
